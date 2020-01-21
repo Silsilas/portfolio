@@ -3,21 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "deploy": "gh-pages -d portf"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Silsilas/portf.git"
+    "url": "git+https://github.com/Silsilas/portfolio.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Silsilas/portf/issues"
+    "url": "https://github.com/Silsilas/portfolio/issues"
   },
-  "homepage": "https://github.com/Silsilas/portf",
-  "dependencies": {
-    "gh-pages": "^2.2.0"
-  }
+  "homepage": "https://github.com/Silsilas/portfolio"
 }
