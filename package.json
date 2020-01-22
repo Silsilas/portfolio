@@ -1,7 +1,7 @@
 {
   "name": "portf",
   "version": "1.0.0",
-  "description": "",
+  "description": "Portfolio",
   "main": "index.js",
   "dependencies": {
     "gh-pages": "^2.2.0"
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/Silsilas/portfolio.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "sil",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Silsilas/portfolio/issues"
